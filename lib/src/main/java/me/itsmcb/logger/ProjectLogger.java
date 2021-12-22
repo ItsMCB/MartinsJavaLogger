@@ -71,7 +71,7 @@ public class ProjectLogger {
     // Debug
 
     /**
-     * Sets the debug mode which allows or disallows debug log calls to be outputted.
+     * Sets the debug mode which allows or disallows debug calls to be outputted.
      * @param bool
      */
     public void setDebug(boolean bool) {
